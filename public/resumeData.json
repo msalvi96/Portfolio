@@ -1,0 +1,197 @@
+{
+  "main": {
+    "name":"Mrunal Salvi",
+    "occupation":"Software Engineering Graduate Student",
+    "description":"Let me tell you just a bit about myself just so you dont get bored. Based on my profile you can either call me a Data Scientist or a Web Developer, but frankly speaking, I don't care about the name that goes along I just enjoy writing good code. Now that you are here, make yourself at home and look around.",
+    "image":"profilepic.jpg",
+    "bio":"I'm a highly motivated Software Developer and a graduate student at Stevens Institute of Technology pursuing my Master of Science in Software Engineering graduating in May 2020. As a student, I am currently working as a Technology Analyst Graduate Assistant for the Office of Graduate Admissions at Stevens Institute of Technology. My professional areas of practice lie in Web Development, Agile Software Development and Data Science domain and my goal is to become a Full Stack Developer in a fast-paced organization. I'm currently looking for Full-Time Opportunities starting from May 2020.",
+    "email": "msalvi@stevens.edu",
+    "phone": "551-263-7025",
+    "address":{
+      "street":"19 Lincoln Street",
+      "city":"Jersey City",
+      "state":"New Jersey",
+      "zip": "07307"
+    },
+    "resumedownload":"mrunal-full-stack.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mrunalsalvi/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/mrunal.salvi96/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/msalvi96",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Stevens Institute of Technology, Hoboken, NJ",
+        "degree":"Master of Science in Software Engineering",
+        "graduated":"August 2018 - May 2020",
+        "cgpa": "3.732",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"University of Mumbai, India",
+        "degree":"Bachelor of Engineering in Electronics",
+        "graduated":"August 2014 - May 2018",
+        "cgpa": "6.63",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Stevens Institute of Technology",
+        "title":"Graduate Assistant - Technology Analyst",
+        "years":"November 2019 - Present",
+        "description":"Working alongside the data engineering team to automate and optimize data handling processes in the graduate admissions office. Developing and documenting an ecosystem of command line applications that work as an extension to the University's admission system to improve task efficiency."
+      },
+      {
+        "company":"Stevens Institute of Technology",
+        "title":"Graduate Assistant - Graduate Admissions Advisor",
+        "years":"November 2018 - Present",
+        "description":"Assisting the Office of Graduate Admissions in administrative activities, data entry, data collection and processing. Managing University's Domestic, International recruitment events and open houses along with University's Instagram, Facebook and Twitter handle."
+      },
+      {
+        "company":"Stevens Institute of Technology",
+        "title":"Graduate Teaching Assistant",
+        "years":"August 2019 - December 2019",
+        "description":"Supervised class of 50+ students in 'Fundamentals of Software Engineering' graduate course, reviewing python assignments, proctoring tests and grading as per university standards. Mentored students through office hours and one-on-one communication."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"95%"
+      },
+      {
+        "name":"JavaScript/Node.js",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"85%"
+      },
+      {
+        "name":"Django",
+        "level":"70%"
+      },
+      {
+        "name":"Flask",
+        "level":"80%"
+      },
+      {
+        "name":"ExpressJs",
+        "level":"90%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"75%"
+      },
+      {
+        "name":"SQL",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Stove and Oven - Smart Meal Planner",
+        "category":"Academic Project",
+        "duration":"August 2019 - December 2019",
+        "url":"https://stove-and-oven-stagging.herokuapp.com",
+        "description": "Worked in an agile team (SCRUM) developing two user-stories per sprint to develop a meal planner web application using MongoDB, Express, React and Node (MERN stack architecture). Defined and unit tested backend API routes using Express.js server and Mocha/Chai unit testing frameworks. Implemented a Google Sign In Authentication system using Passport.js and OAuth2.0. The user interface was developed using React alongside SCSS. Used Github, Travis CI and Unit tests for version control, integration, and testing."
+      },
+      {
+        "title":"IMDB, YouTube, Spotify Search App",
+        "category":"Academic Project",
+        "duration":"October 2019 - December 2019",
+        "url":"https://github.com/msalvi96/team-alpha",
+        "description": "Worked in an agile team following SCRUM principles to develop a web application that serves as a one-stop-shop for users to log in and view movie information across IMDB, YouTube, and Spotify. Leveraged the backend of the application using Express.js and Firebase and mined through data received from Spotify, YouTube, and IMDB APIs to provide relevant search results to the user. Implemented movie suggestions and Redis cache using the IMDB dataset and ElasticSearch. I also designed the user interface using React and incorporated YouTube Media Player to navigate effectively through different search results."
+      },
+      {
+        "title":"Statistical Analysis of Cloud Services",
+        "category":"Academic Project",
+        "duration":"September 2019 - December 2019",
+        "url":"https://www.youtube.com/watch?v=uWJj4lN3tlQ&feature=youtu.be",
+        "description": "Developed a measurement and cost model of cloud service providers by comparing and performing network and compute engine tests on Amazon Web Services, Google Cloud Platform, and Microsoft Azure."
+      },
+      {
+        "title":"Software to Interpret GEDCOM Files",
+        "category":"Academic Project",
+        "duration":"August 2019 - November 2019",
+        "url":"https://github.com/msalvi96/GEDCOM_Project",
+        "description": "Designed software in an agile team to interpret and distinguish errors in a GEDCOM file. Worked in a SCRUM environment and developed 8 user stories per sprint in Python. Used Github, Travis CI, and Unit Tests for version control, integration, and testing."
+      },
+      {
+        "title":"Calling Campaign Assist Desktop Application",
+        "category":"Individual Project",
+        "duration":"June 2019 - August 2019",
+        "url":"https://github.com/msalvi96/CCAssist",
+        "description": "Successfully developed and deployed one of its kind interactive desktop applications to enable users to filter and mine through large excel spreadsheets that reduced manual data operations by 95%. Optimized the Calling Campaign Process at the Office of Graduate Admissions to improve task efficiency by more than 85%. Implemented data mining algorithms using Python 3.6 along with the Pandas library. Analyzed student applications and events data using Pandas and presented data visualizations using MatPlotLib and Seaborn. Planned, scheduled and documented future feature releases for the software."
+      },
+      {
+        "title":"Delicious Food Blog Website",
+        "category":"Individual Project",
+        "duration":"June 2019 - July 2019",
+        "url":"https://deliciousfoodblog.herokuapp.com/",
+        "description": "Engineered a responsive web application serving as a food blog website allowing users to create their accounts and post their food recipes on the website. Built the website using Python and Django as a backend framework. User authentication and login was implemented using Django Authentication modules. Designed the frontend of the web application using W3 CSS framework, HTML, CSS and modeled relationships in a PostgreSQL database between users and their corresponding posts on the website. Deployed the web application on Heroku and configured the application to use Heroku's PostgreSQL addon."
+      },
+      {
+        "title":"University Repository System",
+        "category":"Academic Project",
+        "duration":"April 2019 - May 2019",
+        "url":"https://universityinformationsystem.herokuapp.com/",
+        "description": "Developed a website that displays the list of students and professors in the institute along with their course registrations and count of students for each course. Leveraged the web application using Python and Flask, student and instructor data being retrieved from an SQLite3 database and rendered dynamically on the web page. Designed the frontend of the web application using Bootstrap and deployed on Heroku."
+      },
+      {
+        "title":"Crypto News Network Website",
+        "category":"Individual Project",
+        "duration":"March 2019 - April 2019",
+        "url":"https://crypto-news-network.herokuapp.com/",
+        "description": "Built a website that displays and compares the real-time prices of cryptocurrencies and it also provides users with related news about cryptocurrencies. Leveraged the web application using Python and Django at the backend that uses the CryptoCompare API to retrieve real-time cryptocurrency prices and related news data. Designed the frontend of the web application using Bootstrap and deployed on Heroku."
+      },
+      {
+        "title":"Twitter Bot and Sentiment Analysis",
+        "category":"Individual Project",
+        "duration":"March 2019 - April 2019",
+        "url":"https://github.com/msalvi96/Twitter-Sentiment-Analysis",
+        "description": "Designed and deployed a twitter bot to support auto retweet and auto like feature for specific mention tags and also scraped through many tweets to perform sentiment analysis. The web application is built using Python and Flask and handles a stream of tweets from the Twitter API using the Tweepy Python library to conduct sentiment analysis. Designed the frontend of the web application using Bootstrap, HTML, and CSS. Used the TextBlob Python library to parse through tweets providing a polarity value to every tweet, which inadvertently is used to figure out the sentiment associated with the tweet. Deployed the web app on the Heroku server."
+      },
+      {
+        "title":"Store Items REST API",
+        "category":"Individual Project",
+        "duration":"February 2019 - March 2019",
+        "url":"https://storesitems-rest-api.herokuapp.com/",
+        "description": "Designed and deployed a REST API containing data about different grocery stores and their associated items along with their quantities and price. The REST API is built using Python and Flask along with Flask RESTful to conform the API design to REST standards and Flask-SQLAlchemy to effectively communicate with the database. Designed the frontend of the web application using W3 CSS framework, HTML and CSS. Stored API data in an SQLite3 database supporting CRUD requests. Deployed the web app on the Heroku server."
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Coming Soon...",
+        "user":"@Author"
+      },
+      {
+        "text":"Coming Soon...",
+        "user":"@Author"
+      }
+    ]
+  }
+}
